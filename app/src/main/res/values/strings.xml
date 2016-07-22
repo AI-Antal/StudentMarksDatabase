@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MarksManagement</string>
+    <string name="database_empty">Database Empty</string>
+    <string name="etname_error">Name Field Cannot be Empty</string>
+    <string name="etrollno_error">Roll Number Field Cannot be Empty</string>
+    <string name="etMarks_error">Marks Field Cannot be Empty</string>
+    <string name="subjectlist_error">Please Select all subjects</string>
+    <string name="subjectsSelected_toast">All Subjects Selected</string>
+    <string name="no_marks_error">Enter Marks</string>
+    <string name="etMarks_invalid_input_error">Invalid Input</string>
+    <string name="rollno_exists">Roll number exists already</string>
+    <string name="english">English</string>
+    <string name="maths">Maths</string>
+    <string name="hindi">Hindi</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="physics">Physics</string>
+    <string name="rollno_exists_toast">Roll no. does not exists</string>
+    <string-array name="streams">
+        <item>"Stream"</item>
+        <item>"B.Tech"</item>
+        <item>"M.Tech"</item>
+        <item>"B.C.A"</item>
+        <item>"M.C.A"</item>
+        <item>"B.Phil"</item>
+        <item>"M.Phil"</item>
+        <item>"B.B.A"</item>
+        <item>"M.B.A"</item>
+    </string-array>
+    <string-array name="subjects">
+        <item>"Subject"</item>
+        <item>"English"</item>
+        <item>"Maths"</item>
+        <item>"Hindi"</item>
+        <item>"Chemistry"</item>
+        <item>"Physics"</item>
+    </string-array>
+</resources>
